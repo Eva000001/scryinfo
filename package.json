@@ -1,0 +1,58 @@
+{
+  "homepage": "http://github.com/scryInfo/scry.info",
+  "licenses": [{
+    "type": "GNU",
+    "url": "http://github.com/scryInfo/scry.info/LICENSE"
+  }],
+  "main": "index.js",
+  "maintainers": [{
+      "name": "developer",
+      "email": "developer@scry.info"
+    },
+    {
+      "name": "Danny Yan",
+      "email": "danny@scry.info"
+    }
+  ],
+  "optionalDependencies": {},
+  "name": "scryinfo",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scryInfo/scry.info.git"
+  },
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "keywords": [
+    "scry",
+    "scryInfo",
+    "scry info",
+    "scry.info",
+    "scryinfo"
+  ],
+  "contributors": [{
+    "name": "Danny Yan",
+    "email": "danny@scry.info"
+  }, {
+    "name": "BoHsu19XX",
+    "email": "BoHsu@Scry.info"
+  }],
+  "bugs": {
+    "url": "https://github.com/scryInfo/scry.info/issues"
+  },
+  "dependencies": {
+    "web3": "^0.19.1",
+    "base-58": "^0.0.1",
+    "concat-stream": "^1.6.0",
+    "keythereum": "^1.0.1",
+    "ethereumjs-tx": "^1.3.3",
+    "ipfs-api": "^14.1.0"
+  },
+  "engines": {
+    "node": ">=4.0.0",
+    "npm": ">=3.0.0"
+  },
+  "description": "A real data storage library on ethereum",
+  "version": "0.1.11"
+}
