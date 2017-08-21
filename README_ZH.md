@@ -1,5 +1,5 @@
 scry.info系统的的基础库.
-可以使用一下命令安装
+已经提交到npm中, 可以使用以下命令安装:
 ```bash
 npm install scryinfo --save
 ```
