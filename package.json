@@ -54,5 +54,5 @@
     "npm": ">=3.0.0"
   },
   "description": "A real data storage library on ethereum",
-  "version": "0.1.12"
+  "version": "0.1.13"
 }
