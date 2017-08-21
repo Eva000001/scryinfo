@@ -35,3 +35,6 @@ scryinfo.sendToken("0x6ad565700eb68ddcd0b7da06fb2281eda779eb31", "0x8cb754fff076
 
 总体来说,主要是封装了轻钱包的部分功能,通过代理来方便操作eth.
 用户的eth账户(私钥)都存储在本地app环境中(scryInfo/app_android和scryInfo/app_iOS这2个项目提供了移动端的app)
+
+
+未完待续...
